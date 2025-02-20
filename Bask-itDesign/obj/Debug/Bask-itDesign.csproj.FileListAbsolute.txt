@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Bask-itDesign\bin\TypeScriptHTMLApp1.dll.config
+C:\Users\User\source\repos\Bask-itDesign\bin\TypeScriptHTMLApp1.dll
+C:\Users\User\source\repos\Bask-itDesign\bin\TypeScriptHTMLApp1.pdb
+C:\Users\User\source\repos\Bask-itDesign\obj\Debug\Bask-itDesign.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Bask-itDesign\obj\Debug\Bask-itDesign.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Bask-itDesign\obj\Debug\TypeScriptHTMLApp1.dll
+C:\Users\User\source\repos\Bask-itDesign\obj\Debug\TypeScriptHTMLApp1.pdb
